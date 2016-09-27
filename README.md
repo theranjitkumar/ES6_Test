@@ -1,5 +1,5 @@
 # ES6_Test
-<p style="color:green;"> prerequest:- nodejs should be install </p> <br>
+<p style="color:green;"> prerequest:- nodejs should be install </p>
 run - npm install <br>
 npm run build <br>
 npm start <br>
